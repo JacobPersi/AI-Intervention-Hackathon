@@ -1,0 +1,7 @@
+pygame
+gtts
+SpeechRecognition
+pyautogui
+opencv-python
+pillow
+google-generativeai
